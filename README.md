@@ -16,3 +16,7 @@
 This editor was built using React.js for the frontend and Node.js with Socket.IO for the backend, 
 enabling real-time communication and document synchronization between users.
 Changes made by one user appear instantly for all others connected to the same document.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/a2a90aa0-f75a-431c-b2ed-a3f88a916799)
